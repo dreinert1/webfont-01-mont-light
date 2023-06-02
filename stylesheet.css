@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Light.woff2') format('woff2'),
+        url('Mont-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
